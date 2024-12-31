@@ -473,7 +473,7 @@ footer .mark img{height: 100%; }
 .right_{left: 0;top: -19px;bottom: 0;right: 0; display: flex; justify-content: flex-end}
 .right_ li{display: block; border: 1px solid #ddd;  border-radius: 50%; width: 30px; height: 30px;}
 .blink{height: 10px;}	
-.bog1{display:none}
+.bog1{background-image:url("")}
 #index .wrap{width: 94%}
 #index header .gnb1 {font-size: 15px;display: none}	
 #index header .gnb1 li{margin-left: 15px;}	
