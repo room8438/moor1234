@@ -481,7 +481,7 @@ footer .mark img{height: 100%; }
 #home h2{font-size: 32px;margin-bottom: 10px;}
 #home .prl{float: none;width: 100%;margin-top: 15px;}	
     #home .title {height: auto}
-#home .text{float: none;width: auto;height: 500px}
+#home .text{float: none;width: auto;height: 500px; color:#fff}
 #home .text h3{font-size: 24px;}
 #home .text > ul li span {margin-top: 0;padding-left: 4%;}
     #home .text .prfl {margin:0; padding-top: 50px;}
